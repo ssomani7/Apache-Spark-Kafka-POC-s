@@ -69,7 +69,7 @@ To run Kafka programs you will need a zookeeper and a kafka server. You can goog
 Concepts implemented are:
 1. Real time batch processing using Discretized stream.
 2. Course Event log analysis with kafka.
-3. Windows , Watermarks and data sinks in structred streaming.
+3. Windows, Watermarks and data sinks in structured streaming.
 
 Usage
 -----    
