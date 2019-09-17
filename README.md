@@ -18,11 +18,11 @@ Usage
 ## Machine Learning with SparkMlib
 Implementation of 3 Supervised & 2 Unsupervised Machine Learning Algorithms:
 
-Supervised             | Unsupervised
----------------------- | --------------------------
-1. Linear Regression   | 1. K-Means
-2. Logistic Regression | 2. Collaborative Filtering
-3. Decision Trees      |
+Supervised          | Unsupervised
+--------------------| --------------------------
+Linear Regression   | K-Means
+Logistic Regression | Collaborative Filtering
+Decision Trees      |
 
 ### Linear Regression
 > Used when the values we want to predict have wide range of possible answers. 
